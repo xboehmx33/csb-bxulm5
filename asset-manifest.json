@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://xboehmx33.github.io/csb-bxulm5/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://xboehmx33.github.io/csb-bxulm5/static/js/main.f39e736c.chunk.js",
+    "main.js.map": "https://xboehmx33.github.io/csb-bxulm5/static/js/main.f39e736c.chunk.js.map",
+    "runtime-main.js": "https://xboehmx33.github.io/csb-bxulm5/static/js/runtime-main.386ac5af.js",
+    "runtime-main.js.map": "https://xboehmx33.github.io/csb-bxulm5/static/js/runtime-main.386ac5af.js.map",
+    "static/js/2.bd2118d1.chunk.js": "https://xboehmx33.github.io/csb-bxulm5/static/js/2.bd2118d1.chunk.js",
+    "static/js/2.bd2118d1.chunk.js.map": "https://xboehmx33.github.io/csb-bxulm5/static/js/2.bd2118d1.chunk.js.map",
+    "index.html": "https://xboehmx33.github.io/csb-bxulm5/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://xboehmx33.github.io/csb-bxulm5/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.bd2118d1.chunk.js.LICENSE.txt": "https://xboehmx33.github.io/csb-bxulm5/static/js/2.bd2118d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.386ac5af.js",
+    "static/js/2.bd2118d1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f39e736c.chunk.js"
+  ]
+}
